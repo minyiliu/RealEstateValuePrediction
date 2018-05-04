@@ -1,0 +1,11 @@
+district_to_zip = {'NORTHERN': [94115, 94123,  94108, 94109, 94133, 94104, 94105, 94106, 94111],
+                  'INGLESIDE':[94112],
+                  'TENDERLOIN':[94102],
+                  'PARK_TARAVAL':[94116],
+                  'SOUTHERN': [94132, 94127, 94134],
+                  'MISSION':[94110],
+                  'CENTRAL':[94117, 94114, 94131, 94103],
+                  'BAYVIEW':[94124],
+                  'RICHMOND':[94118, 94121],
+                  'SUNSET':[94122],
+                  'POTRERO HILL':[94107]}
